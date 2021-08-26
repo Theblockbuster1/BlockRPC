@@ -1,0 +1,19 @@
+{
+  "name": "blockrpc",
+  "version": "1.0.0",
+  "description": "An RPC client, without limits.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Theblockbuster1",
+  "license": "MIT",
+  "dependencies": {
+    "custom-electron-titlebar": "^3.2.7",
+    "discord-rpc": "^4.0.1",
+    "electron": "^13.1.9",
+    "electron-store": "^8.0.0",
+    "jquery": "^3.6.0",
+    "typeit": "^8.0.0-rc.1"
+  }
+}
